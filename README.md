@@ -18,8 +18,6 @@ I am a professional web developer specializing in WordPress, Drupal and Shopify.
 
 :small_orange_diamond: Custom Plugin development as per your requirements
 
-:small_orange_diamond: Custom APP development
-
 :small_orange_diamond: WordPress Customization of third party plugins and themes
 
 :small_orange_diamond: Responsive web design and cross-browser compatibility
