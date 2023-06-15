@@ -12,7 +12,7 @@ I am a professional web developer specializing in WordPress and Shopify. With a 
 
 :small_orange_diamond: Custom Plugin development as per your requirements
 
-:small_orange_diamond: Custom AP development
+:small_orange_diamond: Custom APP development
 
 :small_orange_diamond: WordPress Customization of third party plugins and themes
 
